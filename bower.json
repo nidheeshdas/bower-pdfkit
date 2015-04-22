@@ -1,12 +1,12 @@
 {
     "name": "bower-pdfkit",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "authors": [
         "nidheeshdas thavorath <nidheeshdas@gmail.com>"
     ],
     "main": [
-        "pdfkit-0.7.0.js",
-        "blob-stream-v0.1.2.js"
+        "pdfkit-0.7.1.js",
+        "blob-stream-v0.1.3.js"
     ],
     "description": "bower installer for pdfkit",
     "moduleType": [
